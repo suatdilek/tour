@@ -1,9 +1,9 @@
 <?php
 define('PATH', realpath('.'));
 //define('SUBFOLDER', true);
-define('URL', 'http://localhost/_2018_erbilen_dersler45');
-define('LOCAL_KLASOR', '_2018_erbilen_dersler45');
-define('LOCAL_KLASOR2', '_2018_erbilen_dersler45');
+define('URL', 'http://localhost/tour');
+define('LOCAL_KLASOR', 'tour');
+define('LOCAL_KLASOR2', 'tour');
 
 return array(
 'db' => array (
