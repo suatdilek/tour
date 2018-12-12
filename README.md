@@ -1,0 +1,2 @@
+# tour
+ilk gitup açıklamasııı
